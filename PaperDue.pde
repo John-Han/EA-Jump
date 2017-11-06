@@ -1,4 +1,4 @@
-class exonian
+class paperDue
 {
 int x = 0;
 int y = 0;
